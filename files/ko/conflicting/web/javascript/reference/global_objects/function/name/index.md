@@ -1,7 +1,9 @@
 ---
 title: TypedArray.name
-slug: Web/JavaScript/Reference/Global_Objects/TypedArray/name
+slug: conflicting/Web/JavaScript/Reference/Global_Objects/Function/name
+original_slug: Web/JavaScript/Reference/Global_Objects/TypedArray/name
 ---
+
 {{JSRef}}
 
 <code><strong><em>TypedArray</em>.name</strong></code> 속성은 형식화 배열 생성자 이름의 문자열 값을 나타냅니다.

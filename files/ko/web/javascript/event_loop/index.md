@@ -1,7 +1,9 @@
 ---
 title: 이벤트 루프
-slug: Web/JavaScript/EventLoop
+slug: Web/JavaScript/Event_loop
+original_slug: Web/JavaScript/EventLoop
 ---
+
 {{JsSidebar("Advanced")}}
 
 JavaScript의 런타임 모델은 코드의 실행, 이벤트의 수집과 처리, 큐에 대기 중인 하위 작업을 처리하는 **이벤트 루프**에 기반하고 있으며, C 또는 Java 등 다른 언어가 가진 모델과는 상당히 다릅니다.
