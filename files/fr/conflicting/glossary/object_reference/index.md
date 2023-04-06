@@ -1,11 +1,11 @@
 ---
 title: Référence
-slug: Glossary/Reference
+slug: conflicting/Glossary/Object_reference
 tags:
   - Glossaire
   - Programmation
 translation_of: Glossary/Reference
-original_slug: Glossaire/Référence
+original_slug: Glossary/Reference
 ---
 
 Dans le contexte des **{{glossary("object","objets")}}**, une **{{glossary("Object reference","référence d'objet")}}**. Sur MDN, nous pourrions parler de la référence {{glossary ("JavaScript")}} elle-même.

@@ -1,13 +1,13 @@
 ---
 title: FileRequest.lockedFile
-slug: Web/API/IDBFileRequest/lockedFile
+slug: conflicting/Web/API/IndexedDB_API
 tags:
   - API
   - DOM
   - Fichier
   - Propriétés
 translation_of: Web/API/FileRequest/lockedFile
-original_slug: Web/API/FileRequest/lockedFile
+original_slug: Web/API/IDBFileRequest/lockedFile
 ---
 
 {{APIRef("File System API")}} {{non-standard_header}}

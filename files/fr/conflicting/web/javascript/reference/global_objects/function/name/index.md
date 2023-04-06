@@ -1,6 +1,6 @@
 ---
 title: TypedArray.name
-slug: Web/JavaScript/Reference/Global_Objects/TypedArray/name
+slug: conflicting/Web/JavaScript/Reference/Global_Objects/Function/name
 tags:
   - JavaScript
   - Propriété
@@ -8,7 +8,7 @@ tags:
   - TypedArray
   - TypedArrays
 translation_of: Web/JavaScript/Reference/Global_Objects/TypedArray/name
-original_slug: Web/JavaScript/Reference/Objets_globaux/TypedArray/name
+original_slug: Web/JavaScript/Reference/Global_Objects/TypedArray/name
 ---
 
 {{JSRef}}
